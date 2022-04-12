@@ -1,4 +1,4 @@
-package com.engeto.platformProject.companycars;
+package com.engeto.elearning.companycars;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
