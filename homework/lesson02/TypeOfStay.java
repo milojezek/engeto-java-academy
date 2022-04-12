@@ -1,3 +1,3 @@
-package com.engeto.lesson02hotel;
+package com.engeto.hotel;
 
 public enum TypeOfStay { WORKING, HOLIDAY }
