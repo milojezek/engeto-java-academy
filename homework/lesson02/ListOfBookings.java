@@ -1,4 +1,4 @@
-package com.engeto.lesson02hotel;
+package com.engeto.hotel;
 
 import java.awt.print.Book;
 import java.util.ArrayList;
