@@ -1,4 +1,4 @@
-package com.engeto.lesson03ifLoopSwitch;
+package com.engeto.ifLoopSwitch;
 
 import java.util.Scanner;
 
