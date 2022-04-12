@@ -1,4 +1,4 @@
-package com.engeto.lesson02hotel;
+package com.engeto.hotel;
 
 public class Room {
     int number;
